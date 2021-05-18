@@ -27,7 +27,7 @@ namespace MVCCRUDwithoutEF.Controllers
                 sqlDa.SelectCommand.CommandType = CommandType.StoredProcedure;
                 sqlDa.Fill(dtbl);
             }
-            return View(dtbl);
+            //return View(dtbl);
         }
 
 

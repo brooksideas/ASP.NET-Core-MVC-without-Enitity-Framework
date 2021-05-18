@@ -12,18 +12,36 @@
       },
       "results": [
         {
-          "ruleId": "S4487",
-          "level": "warning",
-          "message": "Remove this unread private field '_logger' or refactor the code to use its value.",
+          "ruleId": "CS0161",
+          "level": "error",
+          "message": "'BookController.Index()': not all code paths return a value",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/Controllers/HomeController.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/Controllers/BookController.cs",
                 "region": {
-                  "startLine": 10,
-                  "startColumn": 50,
-                  "endLine": 10,
-                  "endColumn": 57
+                  "startLine": 20,
+                  "startColumn": 30,
+                  "endLine": 20,
+                  "endColumn": 35
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/Controllers/BookController.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 13,
+                  "endLine": 30,
+                  "endColumn": 33
                 }
               }
             }
@@ -33,18 +51,18 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "S4487",
           "level": "warning",
-          "message": "Rename class 'MVCCRUDwithoutEFContext' to match pascal case naming rules, consider using 'MvccruDwithoutEfContext'.",
+          "message": "Remove this unread private field '_logger' or refactor the code to use its value.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/Data/MVCCRUDwithoutEFContext.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/Controllers/HomeController.cs",
                 "region": {
-                  "startLine": 5,
-                  "startColumn": 18,
-                  "endLine": 5,
-                  "endColumn": 41
+                  "startLine": 10,
+                  "startColumn": 50,
+                  "endLine": 10,
+                  "endColumn": 57
                 }
               }
             }
@@ -60,12 +78,33 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/Program.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/Program.cs",
                 "region": {
                   "startLine": 6,
                   "startColumn": 18,
                   "endLine": 6,
                   "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'MVCCRUDwithoutEFContext' to match pascal case naming rules, consider using 'MvccruDwithoutEfContext'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/Data/MVCCRUDwithoutEFContext.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 18,
+                  "endLine": 5,
+                  "endColumn": 41
                 }
               }
             }
@@ -81,7 +120,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/Controllers/HomeController.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/Controllers/HomeController.cs",
                 "region": {
                   "startLine": 10,
                   "startColumn": 50,
@@ -97,6 +136,20 @@
         }
       ],
       "rules": {
+        "CS0161": {
+          "id": "CS0161",
+          "defaultLevel": "error",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0161)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        },
         "IDE0052": {
           "id": "IDE0052",
           "shortDescription": "Remove unread private members",
@@ -133,6 +186,23 @@
           "fullDescription": "Utility classes, which are collections of static members, are not meant to be instantiated.",
           "defaultLevel": "warning",
           "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1118",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
           "properties": {
             "category": "Major Code Smell",
             "isEnabledByDefault": true,

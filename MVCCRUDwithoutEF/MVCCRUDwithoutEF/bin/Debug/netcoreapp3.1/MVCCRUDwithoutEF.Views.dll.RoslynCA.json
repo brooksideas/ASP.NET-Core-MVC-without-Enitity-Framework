@@ -21,7 +21,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs",
                 "region": {
                   "startLine": 34,
                   "startColumn": 67,
@@ -45,7 +45,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs",
                 "region": {
                   "startLine": 33,
                   "startColumn": 67,
@@ -69,7 +69,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
                 "region": {
                   "startLine": 59,
                   "startColumn": 212,
@@ -93,7 +93,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
                 "region": {
                   "startLine": 73,
                   "startColumn": 212,
@@ -117,79 +117,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs",
-                "region": {
-                  "startLine": 34,
-                  "startColumn": 67,
-                  "endLine": 34,
-                  "endColumn": 79
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs",
-                "region": {
-                  "startLine": 34,
-                  "startColumn": 67,
-                  "endLine": 34,
-                  "endColumn": 79
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs",
-                "region": {
-                  "startLine": 34,
-                  "startColumn": 67,
-                  "endLine": 34,
-                  "endColumn": 79
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Delete.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Delete.cshtml.g.cs",
                 "region": {
                   "startLine": 131,
                   "startColumn": 209,
@@ -213,7 +141,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Delete.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Delete.cshtml.g.cs",
                 "region": {
                   "startLine": 154,
                   "startColumn": 211,
@@ -237,295 +165,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
-                "region": {
-                  "startLine": 93,
-                  "startColumn": 207,
-                  "endLine": 93,
-                  "endColumn": 209
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
-                "region": {
-                  "startLine": 143,
-                  "startColumn": 207,
-                  "endLine": 143,
-                  "endColumn": 209
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
-                "region": {
-                  "startLine": 174,
-                  "startColumn": 207,
-                  "endLine": 174,
-                  "endColumn": 209
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 84,
-                  "startColumn": 208,
-                  "endLine": 84,
-                  "endColumn": 210
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 99,
-                  "startColumn": 208,
-                  "endLine": 99,
-                  "endColumn": 210
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 128,
-                  "startColumn": 212,
-                  "endLine": 128,
-                  "endColumn": 214
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 157,
-                  "startColumn": 212,
-                  "endLine": 157,
-                  "endColumn": 214
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 178,
-                  "startColumn": 212,
-                  "endLine": 178,
-                  "endColumn": 214
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 207,
-                  "startColumn": 212,
-                  "endLine": 207,
-                  "endColumn": 214
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 227,
-                  "startColumn": 217,
-                  "endLine": 227,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 241,
-                  "startColumn": 217,
-                  "endLine": 241,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 255,
-                  "startColumn": 217,
-                  "endLine": 255,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
                 "region": {
                   "startLine": 90,
                   "startColumn": 213,
@@ -549,7 +189,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
                 "region": {
                   "startLine": 112,
                   "startColumn": 209,
@@ -573,7 +213,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
                 "region": {
                   "startLine": 135,
                   "startColumn": 216,
@@ -597,7 +237,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
                 "region": {
                   "startLine": 157,
                   "startColumn": 210,
@@ -621,7 +261,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
                 "region": {
                   "startLine": 179,
                   "startColumn": 215,
@@ -645,7 +285,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
                 "region": {
                   "startLine": 201,
                   "startColumn": 216,
@@ -669,7 +309,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
                 "region": {
                   "startLine": 223,
                   "startColumn": 210,
@@ -693,7 +333,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
                 "region": {
                   "startLine": 245,
                   "startColumn": 215,
@@ -717,7 +357,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
                 "region": {
                   "startLine": 267,
                   "startColumn": 216,
@@ -741,7 +381,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
                 "region": {
                   "startLine": 289,
                   "startColumn": 210,
@@ -765,7 +405,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
                 "region": {
                   "startLine": 311,
                   "startColumn": 215,
@@ -789,7 +429,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
                 "region": {
                   "startLine": 350,
                   "startColumn": 208,
@@ -804,6 +444,414 @@
           }
         },
         {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 208,
+                  "endLine": 84,
+                  "endColumn": 210
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 99,
+                  "startColumn": 208,
+                  "endLine": 99,
+                  "endColumn": 210
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 128,
+                  "startColumn": 212,
+                  "endLine": 128,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 157,
+                  "startColumn": 212,
+                  "endLine": 157,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 178,
+                  "startColumn": 212,
+                  "endLine": 178,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 207,
+                  "startColumn": 212,
+                  "endLine": 207,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 227,
+                  "startColumn": 217,
+                  "endLine": 227,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 241,
+                  "startColumn": 217,
+                  "endLine": 241,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 255,
+                  "startColumn": 217,
+                  "endLine": 255,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 67,
+                  "endLine": 34,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 67,
+                  "endLine": 34,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 67,
+                  "endLine": 34,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 93,
+                  "startColumn": 207,
+                  "endLine": 93,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 143,
+                  "startColumn": 207,
+                  "endLine": 143,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 174,
+                  "startColumn": 207,
+                  "endLine": 174,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Book_AddOrEdit.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 24,
+                  "endLine": 46,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Shared__ValidationScriptsPartial.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 24,
+                  "endLine": 41,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
           "ruleId": "CS0169",
           "level": "warning",
           "message": "The field 'Views_Shared__Layout.__tagHelperStringValueBuffer' is never used",
@@ -813,7 +861,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
                   "startLine": 51,
                   "startColumn": 24,
@@ -837,59 +885,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Delete.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/source/repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Delete.cshtml.g.cs",
                 "region": {
                   "startLine": 42,
                   "startColumn": 24,
                   "endLine": 42,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0169",
-          "level": "warning",
-          "message": "The field 'Views_Shared__ValidationScriptsPartial.__tagHelperStringValueBuffer' is never used",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
-                "region": {
-                  "startLine": 41,
-                  "startColumn": 24,
-                  "endLine": 41,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0169",
-          "level": "warning",
-          "message": "The field 'Views_Book_AddOrEdit.__tagHelperStringValueBuffer' is never used",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
-                "region": {
-                  "startLine": 46,
-                  "startColumn": 24,
-                  "endLine": 46,
                   "endColumn": 52
                 }
               }
