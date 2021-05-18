@@ -1,5 +1,3 @@
-using System;
-
 namespace MVCCRUDwithoutEF.Models
 {
     public class ErrorViewModel

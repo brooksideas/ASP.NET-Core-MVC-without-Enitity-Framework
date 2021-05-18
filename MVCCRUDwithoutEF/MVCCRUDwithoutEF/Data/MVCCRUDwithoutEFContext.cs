@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
-using MVCCRUDwithoutEF.Models;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace MVCCRUDwithoutEF.Data
 {
     public class MVCCRUDwithoutEFContext : DbContext
     {
-        public MVCCRUDwithoutEFContext (DbContextOptions<MVCCRUDwithoutEFContext> options)
+        public MVCCRUDwithoutEFContext(DbContextOptions<MVCCRUDwithoutEFContext> options)
             : base(options)
         {
         }

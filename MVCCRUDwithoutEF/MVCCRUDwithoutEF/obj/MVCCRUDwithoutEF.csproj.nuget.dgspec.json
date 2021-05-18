@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\profession\\CodAffection\\Asp.Net Core\\MVC CRUD without EF\\project\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF.csproj": {}
+    "C:\\Users\\user\\Source\\Repos\\ASP.NET-Core-MVC-without-Enitity-Framework\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF.csproj": {}
   },
   "projects": {
-    "F:\\profession\\CodAffection\\Asp.Net Core\\MVC CRUD without EF\\project\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF.csproj": {
+    "C:\\Users\\user\\Source\\Repos\\ASP.NET-Core-MVC-without-Enitity-Framework\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\profession\\CodAffection\\Asp.Net Core\\MVC CRUD without EF\\project\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\ASP.NET-Core-MVC-without-Enitity-Framework\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF.csproj",
         "projectName": "MVCCRUDwithoutEF",
-        "projectPath": "F:\\profession\\CodAffection\\Asp.Net Core\\MVC CRUD without EF\\project\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF.csproj",
-        "packagesPath": "C:\\Users\\Shamseer\\.nuget\\packages\\",
-        "outputPath": "F:\\profession\\CodAffection\\Asp.Net Core\\MVC CRUD without EF\\project\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\obj\\",
+        "projectPath": "C:\\Users\\user\\Source\\Repos\\ASP.NET-Core-MVC-without-Enitity-Framework\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Source\\Repos\\ASP.NET-Core-MVC-without-Enitity-Framework\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Shamseer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,10 +22,12 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/engage2excel/51f8e362-0803-46ba-b6ff-ae33395d9735/_packaging/Vistance/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +39,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,15 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using MVCCRUDwithoutEF.Data;
 using MVCCRUDwithoutEF.Models;
+using System;
+using System.Data;
 
 namespace MVCCRUDwithoutEF.Controllers
 {
@@ -36,15 +30,15 @@ namespace MVCCRUDwithoutEF.Controllers
             return View(dtbl);
         }
 
-       
+
 
         // GET: Book/AddOrEdit/
         public IActionResult AddOrEdit(int? id)
         {
-           BookViewModel bookViewModel = new BookViewModel();
+            BookViewModel bookViewModel = new BookViewModel();
             if (id > 0)
                 bookViewModel = FetchBookByID(id);
-           return View(bookViewModel);
+            return View(bookViewModel);
         }
 
         // POST: Book/AddOrEdit/5
@@ -56,7 +50,7 @@ namespace MVCCRUDwithoutEF.Controllers
         {
             if (ModelState.IsValid)
             {
-                using (SqlConnection sqlConnection= new SqlConnection(_configuration.GetConnectionString("DevConnection")))
+                using (SqlConnection sqlConnection = new SqlConnection(_configuration.GetConnectionString("DevConnection")))
                 {
                     sqlConnection.Open();
                     SqlCommand sqlCmd = new SqlCommand("BookAddOrEdit", sqlConnection);
@@ -89,14 +83,14 @@ namespace MVCCRUDwithoutEF.Controllers
                 sqlConnection.Open();
                 SqlCommand sqlCmd = new SqlCommand("BookDeleteByID", sqlConnection);
                 sqlCmd.CommandType = CommandType.StoredProcedure;
-                sqlCmd.Parameters.AddWithValue("BookID",id);
+                sqlCmd.Parameters.AddWithValue("BookID", id);
                 sqlCmd.ExecuteNonQuery();
             }
             return RedirectToAction(nameof(Index));
         }
 
         [NonAction]
-        public BookViewModel FetchBookByID(int? id) 
+        public BookViewModel FetchBookByID(int? id)
         {
             BookViewModel bookViewModel = new BookViewModel();
             using (SqlConnection sqlConnection = new SqlConnection(_configuration.GetConnectionString("DevConnection")))
@@ -107,9 +101,9 @@ namespace MVCCRUDwithoutEF.Controllers
                 sqlDa.SelectCommand.CommandType = CommandType.StoredProcedure;
                 sqlDa.SelectCommand.Parameters.AddWithValue("BookID", id);
                 sqlDa.Fill(dtbl);
-                if(dtbl.Rows.Count == 1)
+                if (dtbl.Rows.Count == 1)
                 {
-                    bookViewModel.BookID =Convert.ToInt32(dtbl.Rows[0]["BookID"].ToString());
+                    bookViewModel.BookID = Convert.ToInt32(dtbl.Rows[0]["BookID"].ToString());
                     bookViewModel.Title = dtbl.Rows[0]["Title"].ToString();
                     bookViewModel.Author = dtbl.Rows[0]["Author"].ToString();
                     bookViewModel.Price = Convert.ToInt32(dtbl.Rows[0]["Price"].ToString());
