@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\ASP.NET-Core-MVC-without-Enitity-Framework\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF.csproj": {}
+    "C:\\Users\\user\\Source\\Repos\\ASP.NET-Core-MVC-without-Enitity-Framework\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\ASP.NET-Core-MVC-without-Enitity-Framework\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF.csproj": {
+    "C:\\Users\\user\\Source\\Repos\\ASP.NET-Core-MVC-without-Enitity-Framework\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\ASP.NET-Core-MVC-without-Enitity-Framework\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\ASP.NET-Core-MVC-without-Enitity-Framework\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF.csproj",
         "projectName": "MVCCRUDwithoutEF",
-        "projectPath": "C:\\Users\\user\\source\\repos\\ASP.NET-Core-MVC-without-Enitity-Framework\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF.csproj",
+        "projectPath": "C:\\Users\\user\\Source\\Repos\\ASP.NET-Core-MVC-without-Enitity-Framework\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\ASP.NET-Core-MVC-without-Enitity-Framework\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\obj\\",
+        "outputPath": "C:\\Users\\user\\Source\\Repos\\ASP.NET-Core-MVC-without-Enitity-Framework\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
 using MVCCRUDwithoutEF.Models;
@@ -19,6 +20,7 @@ namespace MVCCRUDwithoutEF.Controllers
         // GET: Book
         public IActionResult Index()
         {
+          
             DataTable dtbl = new DataTable();
             using (SqlConnection sqlConnection = new SqlConnection(_configuration.GetConnectionString("DevConnection")))
             {
@@ -27,10 +29,24 @@ namespace MVCCRUDwithoutEF.Controllers
                 sqlDa.SelectCommand.CommandType = CommandType.StoredProcedure;
                 sqlDa.Fill(dtbl);
             }
-            //return View(dtbl);
+            return View(dtbl);
         }
 
+        // GET: /Book/SearchTitle
 
+     
+        public IActionResult Search(IFormCollection formCollection)
+        {
+            DataTable dtbl = new DataTable(); 
+            using (SqlConnection sqlConnection = new SqlConnection(_configuration.GetConnectionString("DevConnection")))
+            {
+                sqlConnection.Open();
+                SqlDataAdapter cmd = new SqlDataAdapter("Select * from Books where Title='" + formCollection["BookTitle"] + "'", sqlConnection);
+                cmd.SelectCommand.CommandType = CommandType.Text; 
+                cmd.Fill(dtbl);
+            }
+            return View(dtbl);
+        }
 
         // GET: Book/AddOrEdit/
         public IActionResult AddOrEdit(int? id)

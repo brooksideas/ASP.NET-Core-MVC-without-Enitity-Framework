@@ -2,40 +2,10 @@
 
 @{
     ViewData["Title"] = "List of Books";
-} 
-
+}
 
 <div class="jumbotron">
-    <h1 class="text-center">@ViewData["Title"]</h1>
-
-    <div>
-        <form asp-action="Search" autocomplete="off">
-            @using (Html.BeginForm("Search", "Book"))
-            {
-                <h3 id="searchField"> ... </h3>
-                <div class="form-group">
-                    <input class="form-control" id="search" name="BookTitle" placeholder="Search Book Title" type="text" value="" oninput="searchEntered(this.value)" />
-                </div>
-                <div class="form-group">
-                    <input id="submit" type="submit" value="Search" class="btn btn-primary" />
-                </div>
-
-                <script>
-                    var searchInput = val;
-                    function searchEntered(val) {
-                        this.searchInput = val;
-                        document.getElementById("searchField").innerHTML = searchInput;
-                    }
-
-
-                </script>
-            }
-
-            </form>
-
-
-    </div>
-
+    <h1 class="text-center">@ViewData["Title"]</h1> 
 </div>
 
 <table class="table table-bordered">
@@ -77,4 +47,3 @@
         }
     </tbody>
 </table>
-

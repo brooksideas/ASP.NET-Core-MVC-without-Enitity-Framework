@@ -13,5 +13,6 @@ namespace MVCCRUDwithoutEF.Models
         public string Author { get; set; }
         [Range(1, int.MaxValue, ErrorMessage = "Should be greated than or equal to 1")]
         public int Price { get; set; }
+         
     }
 }
