@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://localhost:9000",
+  "Organization": null,
+  "ProjectKey": "sql-injection-demo",
+  "ProjectName": "sql-injection-demo",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AXl_brg4NsyBX5-6SWLE",
+      "ProfileTimestamp": "2021-05-18T12:23:53Z"
+    }
+  }
+}

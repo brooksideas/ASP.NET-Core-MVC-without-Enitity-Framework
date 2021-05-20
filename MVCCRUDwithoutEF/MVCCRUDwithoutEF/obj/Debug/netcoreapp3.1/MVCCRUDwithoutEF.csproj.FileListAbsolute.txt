@@ -314,7 +314,6 @@ C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwit
 C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\obj\Debug\netcoreapp3.1\MVCCRUDwithoutEF.csprojAssemblyReference.cache
 C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\obj\Debug\netcoreapp3.1\MVCCRUDwithoutEF.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\obj\Debug\netcoreapp3.1\MVCCRUDwithoutEF.AssemblyInfoInputs.cache
 C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\obj\Debug\netcoreapp3.1\MVCCRUDwithoutEF.AssemblyInfo.cs
@@ -331,6 +330,7 @@ C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwit
 C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\obj\Debug\netcoreapp3.1\Razor\Views\Book\AddOrEdit.cshtml.g.cs
 C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\obj\Debug\netcoreapp3.1\Razor\Views\Book\Delete.cshtml.g.cs
 C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\obj\Debug\netcoreapp3.1\Razor\Views\Book\Search.cshtml.g.cs
 C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
@@ -345,4 +345,4 @@ C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwit
 C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\obj\Debug\netcoreapp3.1\MVCCRUDwithoutEF.dll
 C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\obj\Debug\netcoreapp3.1\MVCCRUDwithoutEF.pdb
 C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\obj\Debug\netcoreapp3.1\MVCCRUDwithoutEF.genruntimeconfig.cache
-C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\obj\Debug\netcoreapp3.1\Razor\Views\Book\Search.cshtml.g.cs
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVCCRUDwithoutEF\obj\Debug\netcoreapp3.1\MVCCRUDwithoutEF.csprojAssemblyReference.cache

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pP5QBET8MI6OrgazH4gD4tMWzy8i8WZ/IHvLOhs9Sd0SryDKkapQSGLOZXdRr7Bh0GZNLdAYEVsqmk233Y1IAQ==",
+  "dgSpecHash": "rEvbjSDgJL59pIFyvEOEyzE+1m902RyyMyk0mtjQ8CthtrsjMSxKjY/RnGOE5ld8j7LCqwHKJ4hZboJ0AP26xg==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Source\\Repos\\ASP.NET-Core-MVC-without-Enitity-Framework\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF\\MVCCRUDwithoutEF.csproj",
   "expectedPackageFiles": [
@@ -82,6 +82,7 @@
     "C:\\Users\\user\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\sonaranalyzer.csharp\\8.22.0.31243\\sonaranalyzer.csharp.8.22.0.31243.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.2\\sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\sqlitepclraw.core\\2.0.2\\sqlitepclraw.core.2.0.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.2\\sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",

@@ -29,6 +29,7 @@ namespace MVCCRUDwithoutEF.Controllers
                 sqlDa.SelectCommand.CommandType = CommandType.StoredProcedure;
                 sqlDa.Fill(dtbl);
             }
+            Console.WriteLine("Invoke solarlint warning");
             return View(dtbl);
         }
 
@@ -40,8 +41,9 @@ namespace MVCCRUDwithoutEF.Controllers
             DataTable dtbl = new DataTable(); 
             using (SqlConnection sqlConnection = new SqlConnection(_configuration.GetConnectionString("DevConnection")))
             {
-                sqlConnection.Open();
-                SqlDataAdapter cmd = new SqlDataAdapter("Select * from Books where Title='" + formCollection["BookTitle"] + "'", sqlConnection);
+                sqlConnection.Open();  
+                string query = $"SELECT * FROM Books WHERE Title='"+ formCollection["BookTitle"] + "'";
+                SqlDataAdapter cmd = new SqlDataAdapter(query, sqlConnection);
                 cmd.SelectCommand.CommandType = CommandType.Text; 
                 cmd.Fill(dtbl);
             }
