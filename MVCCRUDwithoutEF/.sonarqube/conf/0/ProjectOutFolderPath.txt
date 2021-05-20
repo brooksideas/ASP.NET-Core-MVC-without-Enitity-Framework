@@ -1,1 +1,0 @@
-C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\.sonarqube\out\0

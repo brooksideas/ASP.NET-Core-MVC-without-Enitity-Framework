@@ -41,8 +41,9 @@ namespace MVCCRUDwithoutEF.Controllers
             DataTable dtbl = new DataTable(); 
             using (SqlConnection sqlConnection = new SqlConnection(_configuration.GetConnectionString("DevConnection")))
             {
+                string newVar = "hello";
                 sqlConnection.Open();  
-                string query = $"SELECT * FROM Books WHERE Title='"+ formCollection["BookTitle"] + "'";
+                string query = "SELECT * FROM Books WHERE Title='"+ formCollection["BookTitle"] + "'";
                 SqlDataAdapter cmd = new SqlDataAdapter(query, sqlConnection);
                 cmd.SelectCommand.CommandType = CommandType.Text; 
                 cmd.Fill(dtbl);

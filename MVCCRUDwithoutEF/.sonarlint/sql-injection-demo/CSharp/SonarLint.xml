@@ -14,8 +14,20 @@
       <Value>true</Value>
     </Setting>
     <Setting>
+      <Key>sonar.cs.roslyn.bugCategories</Key>
+      <Value>sonar.cs.roslyn.bugCategories</Value>
+    </Setting>
+    <Setting>
+      <Key>sonar.cs.roslyn.codeSmellCategories</Key>
+      <Value>sonar.cs.roslyn.codeSmellCategories</Value>
+    </Setting>
+    <Setting>
       <Key>sonar.cs.roslyn.ignoreIssues</Key>
       <Value>false</Value>
+    </Setting>
+    <Setting>
+      <Key>sonar.cs.roslyn.vulnerabilityCategories</Key>
+      <Value>sonar.cs.roslyn.vulnerabilityCategories</Value>
     </Setting>
   </Settings>
   <Rules>

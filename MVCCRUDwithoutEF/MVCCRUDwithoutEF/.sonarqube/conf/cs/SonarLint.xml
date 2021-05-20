@@ -7,7 +7,7 @@
     </Setting>
     <Setting>
       <Key>sonar.cs.analyzeGeneratedCode</Key>
-      <Value>false</Value>
+      <Value>true</Value>
     </Setting>
     <Setting>
       <Key>sonar.cs.file.suffixes</Key>
@@ -16,6 +16,18 @@
     <Setting>
       <Key>sonar.cs.roslyn.ignoreIssues</Key>
       <Value>false</Value>
+    </Setting>
+    <Setting>
+      <Key>sonar.cs.roslyn.vulnerabilityCategories</Key>
+      <Value>sonar.cs.roslyn.vulnerabilityCategories</Value>
+    </Setting>
+    <Setting>
+      <Key>sonar.cs.roslyn.codeSmellCategories</Key>
+      <Value>sonar.cs.roslyn.codeSmellCategories</Value>
+    </Setting>
+    <Setting>
+      <Key>sonar.cs.roslyn.bugCategories</Key>
+      <Value>sonar.cs.roslyn.bugCategories</Value>
     </Setting>
   </Settings>
   <Rules>

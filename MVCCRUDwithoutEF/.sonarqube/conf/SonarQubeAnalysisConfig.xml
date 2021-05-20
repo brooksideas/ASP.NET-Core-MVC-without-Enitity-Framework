@@ -7,7 +7,7 @@
   <HasBeginStepCommandLineCredentials>true</HasBeginStepCommandLineCredentials>
   <SonarQubeHostUrl>http://localhost:9000</SonarQubeHostUrl>
   <SonarQubeVersion>8.9.0.43852</SonarQubeVersion>
-  <SonarProjectKey>sonarqube-demo</SonarProjectKey>
+  <SonarProjectKey>sql-injection-demo</SonarProjectKey>
   <AdditionalConfig>
     <ConfigSetting Id="BuildUri" />
     <ConfigSetting Id="TfsUri" />
@@ -104,12 +104,10 @@
     <Property Name="sonar.core.id">BF41A1F2-AXl_bdFFNsyBX5-6SSOG</Property>
     <Property Name="sonar.core.startTime">5/20/2021 1:17:35 AM</Property>
     <Property Name="sonar.cs.roslyn.vulnerabilityCategories">sonar.cs.roslyn.vulnerabilityCategories</Property>
-    <Property Name="sonar.cs.roslyn.bugCategories">sonar.cs.roslyn.bugCategories</Property>
     <Property Name="sonar.cs.roslyn.codeSmellCategories">sonar.cs.roslyn.codeSmellCategories</Property>
+    <Property Name="sonar.cs.roslyn.bugCategories">sonar.cs.roslyn.bugCategories</Property>
   </ServerSettings>
-  <LocalSettings>
-    <Property Name="sonar.host.url">http://localhost:9000</Property>
-  </LocalSettings>
+  <LocalSettings />
   <AnalyzersSettings>
     <AnalyzerSettings>
       <Language>cs</Language>
