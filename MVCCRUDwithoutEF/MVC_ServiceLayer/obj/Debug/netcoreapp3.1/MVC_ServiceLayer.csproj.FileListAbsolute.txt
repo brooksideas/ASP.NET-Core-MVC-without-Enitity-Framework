@@ -1,0 +1,13 @@
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_ServiceLayer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_ServiceLayer\bin\Debug\netcoreapp3.1\MVC_ServiceLayer.deps.json
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_ServiceLayer\bin\Debug\netcoreapp3.1\MVC_ServiceLayer.dll
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_ServiceLayer\bin\Debug\netcoreapp3.1\MVC_ServiceLayer.pdb
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_ServiceLayer\bin\Debug\netcoreapp3.1\MVC_DataAccessLayer.dll
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_ServiceLayer\bin\Debug\netcoreapp3.1\MVC_DataAccessLayer.pdb
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_ServiceLayer\obj\Debug\netcoreapp3.1\MVC_ServiceLayer.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_ServiceLayer\obj\Debug\netcoreapp3.1\MVC_ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_ServiceLayer\obj\Debug\netcoreapp3.1\MVC_ServiceLayer.AssemblyInfo.cs
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_ServiceLayer\obj\Debug\netcoreapp3.1\MVC_ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_ServiceLayer\obj\Debug\netcoreapp3.1\MVC_ServiceLayer.csproj.CopyComplete
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_ServiceLayer\obj\Debug\netcoreapp3.1\MVC_ServiceLayer.dll
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_ServiceLayer\obj\Debug\netcoreapp3.1\MVC_ServiceLayer.pdb

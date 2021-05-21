@@ -5,7 +5,7 @@ using Microsoft.Extensions.Configuration;
 using MVCCRUDwithoutEF.Models;
 using System;
 using System.Data;
-
+using MVC_ServiceLayer;
 namespace MVCCRUDwithoutEF.Controllers
 {
     public class BookController : Controller
@@ -29,7 +29,7 @@ namespace MVCCRUDwithoutEF.Controllers
                 sqlDa.SelectCommand.CommandType = CommandType.StoredProcedure;
                 sqlDa.Fill(dtbl);
             }
-            Console.WriteLine("Invoke solarlint warning");
+           
             return View(dtbl);
         }
 
@@ -38,16 +38,14 @@ namespace MVCCRUDwithoutEF.Controllers
      
         public IActionResult Search(IFormCollection formCollection)
         {
+            BookViewModel cust = new BookViewModel();
+            cust.Title = formCollection["BookTitle"];
+
+            // Service 
+            SL_Book _customerService = new SL_Book(); 
+            var book = _customerService.getCustomers(cust.Title);
             DataTable dtbl = new DataTable(); 
-            using (SqlConnection sqlConnection = new SqlConnection(_configuration.GetConnectionString("DevConnection")))
-            {
-                string newVar = "hello";
-                sqlConnection.Open();  
-                string query = "SELECT * FROM Books WHERE Title='"+ formCollection["BookTitle"] + "'";
-                SqlDataAdapter cmd = new SqlDataAdapter(query, sqlConnection);
-                cmd.SelectCommand.CommandType = CommandType.Text; 
-                cmd.Fill(dtbl);
-            }
+            Console.WriteLine(book);  
             return View(dtbl);
         }
 

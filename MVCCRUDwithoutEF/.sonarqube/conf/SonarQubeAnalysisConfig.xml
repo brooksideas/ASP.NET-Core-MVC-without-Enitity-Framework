@@ -107,7 +107,9 @@
     <Property Name="sonar.cs.roslyn.codeSmellCategories">sonar.cs.roslyn.codeSmellCategories</Property>
     <Property Name="sonar.cs.roslyn.bugCategories">sonar.cs.roslyn.bugCategories</Property>
   </ServerSettings>
-  <LocalSettings />
+  <LocalSettings>
+    <Property Name="sonar.host.url">http://localhost:9000</Property>
+  </LocalSettings>
   <AnalyzersSettings>
     <AnalyzerSettings>
       <Language>cs</Language>

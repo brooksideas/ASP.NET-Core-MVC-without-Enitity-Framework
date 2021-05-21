@@ -26,6 +26,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MVC_ServiceLayer\MVC_ServiceLayer.csproj" />
+  </ItemGroup>
+
 
 
 </Project>

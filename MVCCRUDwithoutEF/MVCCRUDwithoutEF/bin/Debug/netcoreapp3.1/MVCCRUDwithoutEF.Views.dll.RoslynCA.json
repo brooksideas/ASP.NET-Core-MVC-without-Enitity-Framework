@@ -117,246 +117,6 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 85,
-                  "startColumn": 208,
-                  "endLine": 85,
-                  "endColumn": 210
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 100,
-                  "startColumn": 209,
-                  "endLine": 100,
-                  "endColumn": 211
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 129,
-                  "startColumn": 212,
-                  "endLine": 129,
-                  "endColumn": 214
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 158,
-                  "startColumn": 212,
-                  "endLine": 158,
-                  "endColumn": 214
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 179,
-                  "startColumn": 212,
-                  "endLine": 179,
-                  "endColumn": 214
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 200,
-                  "startColumn": 212,
-                  "endLine": 200,
-                  "endColumn": 214
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 229,
-                  "startColumn": 212,
-                  "endLine": 229,
-                  "endColumn": 214
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 249,
-                  "startColumn": 217,
-                  "endLine": 249,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 263,
-                  "startColumn": 217,
-                  "endLine": 263,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 277,
-                  "startColumn": 217,
-                  "endLine": 277,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
                 "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
                 "region": {
                   "startLine": 90,
@@ -645,6 +405,294 @@
           "locations": [
             {
               "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 85,
+                  "startColumn": 208,
+                  "endLine": 85,
+                  "endColumn": 210
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 100,
+                  "startColumn": 209,
+                  "endLine": 100,
+                  "endColumn": 211
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 129,
+                  "startColumn": 212,
+                  "endLine": 129,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 158,
+                  "startColumn": 212,
+                  "endLine": 158,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 179,
+                  "startColumn": 212,
+                  "endLine": 179,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 200,
+                  "startColumn": 212,
+                  "endLine": 200,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 229,
+                  "startColumn": 212,
+                  "endLine": 229,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 249,
+                  "startColumn": 217,
+                  "endLine": 249,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 263,
+                  "startColumn": 217,
+                  "endLine": 263,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 277,
+                  "startColumn": 217,
+                  "endLine": 277,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Delete.cshtml.g.cs",
+                "region": {
+                  "startLine": 131,
+                  "startColumn": 209,
+                  "endLine": 131,
+                  "endColumn": 211
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Delete.cshtml.g.cs",
+                "region": {
+                  "startLine": 154,
+                  "startColumn": 211,
+                  "endLine": 154,
+                  "endColumn": 213
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
                 "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs",
                 "region": {
                   "startLine": 34,
@@ -699,126 +747,6 @@
                   "startColumn": 67,
                   "endLine": 34,
                   "endColumn": 79
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Search.cshtml.g.cs",
-                "region": {
-                  "startLine": 93,
-                  "startColumn": 207,
-                  "endLine": 93,
-                  "endColumn": 209
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Search.cshtml.g.cs",
-                "region": {
-                  "startLine": 143,
-                  "startColumn": 207,
-                  "endLine": 143,
-                  "endColumn": 209
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Search.cshtml.g.cs",
-                "region": {
-                  "startLine": 174,
-                  "startColumn": 207,
-                  "endLine": 174,
-                  "endColumn": 209
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Delete.cshtml.g.cs",
-                "region": {
-                  "startLine": 131,
-                  "startColumn": 209,
-                  "endLine": 131,
-                  "endColumn": 211
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Delete.cshtml.g.cs",
-                "region": {
-                  "startLine": 154,
-                  "startColumn": 211,
-                  "endLine": 154,
-                  "endColumn": 213
                 }
               }
             }
@@ -924,6 +852,126 @@
           }
         },
         {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Search.cshtml.g.cs",
+                "region": {
+                  "startLine": 93,
+                  "startColumn": 207,
+                  "endLine": 93,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Search.cshtml.g.cs",
+                "region": {
+                  "startLine": 143,
+                  "startColumn": 207,
+                  "endLine": 143,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Search.cshtml.g.cs",
+                "region": {
+                  "startLine": 174,
+                  "startColumn": 207,
+                  "endLine": 174,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Shared__Layout.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 24,
+                  "endLine": 52,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Book_AddOrEdit.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 24,
+                  "endLine": 46,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
           "ruleId": "CS0169",
           "level": "warning",
           "message": "The field 'Views_Book_Delete.__tagHelperStringValueBuffer' is never used",
@@ -972,51 +1020,45 @@
           }
         },
         {
-          "ruleId": "CS0169",
+          "ruleId": "S2933",
           "level": "warning",
-          "message": "The field 'Views_Book_AddOrEdit.__tagHelperStringValueBuffer' is never used",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
+          "message": "Make '__tagHelperRunner' 'readonly'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/AddOrEdit.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
                 "region": {
-                  "startLine": 46,
-                  "startColumn": 24,
-                  "endLine": 46,
-                  "endColumn": 52
+                  "startLine": 41,
+                  "startColumn": 87,
+                  "endLine": 41,
+                  "endColumn": 104
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 3
+            "warningLevel": 1
           }
         },
         {
-          "ruleId": "CS0169",
+          "ruleId": "S101",
           "level": "warning",
-          "message": "The field 'Views_Shared__Layout.__tagHelperStringValueBuffer' is never used",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
+          "message": "Rename class 'Views_Book_Index' to match pascal case naming rules, consider using 'ViewsBookIndex'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
                 "region": {
-                  "startLine": 52,
-                  "startColumn": 24,
-                  "endLine": 52,
-                  "endColumn": 52
+                  "startLine": 31,
+                  "startColumn": 18,
+                  "endLine": 31,
+                  "endColumn": 34
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 3
+            "warningLevel": 1
           }
         },
         {
@@ -1032,6 +1074,111 @@
                   "startColumn": 87,
                   "endLine": 44,
                   "endColumn": 104
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field '__tagHelperExecutionContext' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 97,
+                  "endLine": 39,
+                  "endColumn": 124
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field '__tagHelperStringValueBuffer' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field '__Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 75,
+                  "endLine": 57,
+                  "endColumn": 126
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field '__Microsoft_AspNetCore_Mvc_TagHelpers_RenderAtEndOfFormTagHelper' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 88,
+                  "endLine": 58,
+                  "endColumn": 152
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field '__Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 77,
+                  "endLine": 59,
+                  "endColumn": 130
                 }
               }
             }
@@ -1236,11 +1383,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Search.cshtml.g.cs",
                 "region": {
-                  "startLine": 41,
+                  "startLine": 39,
                   "startColumn": 87,
-                  "endLine": 41,
+                  "endLine": 39,
                   "endColumn": 104
                 }
               }
@@ -1253,16 +1400,37 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'Views_Book_Index' to match pascal case naming rules, consider using 'ViewsBookIndex'.",
+          "message": "Rename class 'Views_Book_Search' to match pascal case naming rules, consider using 'ViewsBookSearch'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Search.cshtml.g.cs",
                 "region": {
                   "startLine": 31,
                   "startColumn": 18,
                   "endLine": 31,
-                  "endColumn": 34
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'Views_Shared_Error' to match pascal case naming rules, consider using 'ViewsSharedError'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 18,
+                  "endLine": 31,
+                  "endColumn": 36
                 }
               }
             }
@@ -1278,11 +1446,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Search.cshtml.g.cs",
                 "region": {
-                  "startLine": 39,
+                  "startLine": 37,
                   "startColumn": 97,
-                  "endLine": 39,
+                  "endLine": 37,
                   "endColumn": 124
                 }
               }
@@ -1299,54 +1467,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Search.cshtml.g.cs",
                 "region": {
-                  "startLine": 43,
+                  "startLine": 41,
                   "startColumn": 24,
-                  "endLine": 43,
+                  "endLine": 41,
                   "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1450",
-          "level": "warning",
-          "message": "Remove the field '__Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper' and declare it as a local variable in the relevant methods.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
-                "region": {
-                  "startLine": 57,
-                  "startColumn": 75,
-                  "endLine": 57,
-                  "endColumn": 126
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1450",
-          "level": "warning",
-          "message": "Remove the field '__Microsoft_AspNetCore_Mvc_TagHelpers_RenderAtEndOfFormTagHelper' and declare it as a local variable in the relevant methods.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
-                "region": {
-                  "startLine": 58,
-                  "startColumn": 88,
-                  "endLine": 58,
-                  "endColumn": 152
                 }
               }
             }
@@ -1362,12 +1488,348 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs",
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Search.cshtml.g.cs",
                 "region": {
-                  "startLine": 59,
+                  "startLine": 55,
                   "startColumn": 77,
-                  "endLine": 59,
+                  "endLine": 55,
                   "endColumn": 130
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'Views_Home_Index' to match pascal case naming rules, consider using 'ViewsHomeIndex'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 18,
+                  "endLine": 31,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'Views_Home_Privacy' to match pascal case naming rules, consider using 'ViewsHomePrivacy'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 18,
+                  "endLine": 31,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make '__tagHelperRunner' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 87,
+                  "endLine": 39,
+                  "endColumn": 104
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'Views_Shared__ValidationScriptsPartial' to match pascal case naming rules, consider using 'ViewsSharedValidationScriptsPartial'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 18,
+                  "endLine": 31,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field '__tagHelperExecutionContext' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 97,
+                  "endLine": 37,
+                  "endColumn": 124
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field '__Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 55,
+                  "startColumn": 90,
+                  "endLine": 55,
+                  "endColumn": 156
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make '__tagHelperRunner' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 87,
+                  "endLine": 50,
+                  "endColumn": 104
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'Views_Shared__Layout' to match pascal case naming rules, consider using 'ViewsSharedLayout'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 18,
+                  "endLine": 31,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'Views__ViewImports' to match pascal case naming rules, consider using 'ViewsViewImports'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 18,
+                  "endLine": 30,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field '__tagHelperExecutionContext' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 97,
+                  "endLine": 48,
+                  "endColumn": 124
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field '__Microsoft_AspNetCore_Mvc_Razor_TagHelpers_HeadTagHelper' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 81,
+                  "endLine": 66,
+                  "endColumn": 138
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field '__Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 90,
+                  "endLine": 67,
+                  "endColumn": 156
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field '__Microsoft_AspNetCore_Mvc_Razor_TagHelpers_BodyTagHelper' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 68,
+                  "startColumn": 81,
+                  "endLine": 68,
+                  "endColumn": 138
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field '__Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 77,
+                  "endLine": 69,
+                  "endColumn": 130
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field '__Microsoft_AspNetCore_Mvc_TagHelpers_ScriptTagHelper' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 77,
+                  "endLine": 70,
+                  "endColumn": 130
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'Views__ViewStart' to match pascal case naming rules, consider using 'ViewsViewStart'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 18,
+                  "endLine": 31,
+                  "endColumn": 34
                 }
               }
             }
@@ -1524,465 +1986,172 @@
           }
         },
         {
-          "ruleId": "S2933",
+          "ruleId": "S3776",
           "level": "warning",
-          "message": "Make '__tagHelperRunner' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Search.cshtml.g.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 87,
-                  "endLine": 39,
-                  "endColumn": 104
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'Views_Home_Index' to match pascal case naming rules, consider using 'ViewsHomeIndex'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 18,
-                  "endLine": 31,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'Views_Book_Search' to match pascal case naming rules, consider using 'ViewsBookSearch'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Search.cshtml.g.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 18,
-                  "endLine": 31,
-                  "endColumn": 35
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'Views_Shared_Error' to match pascal case naming rules, consider using 'ViewsSharedError'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 18,
-                  "endLine": 31,
-                  "endColumn": 36
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1450",
-          "level": "warning",
-          "message": "Remove the field '__tagHelperExecutionContext' and declare it as a local variable in the relevant methods.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Search.cshtml.g.cs",
-                "region": {
-                  "startLine": 37,
-                  "startColumn": 97,
-                  "endLine": 37,
-                  "endColumn": 124
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1450",
-          "level": "warning",
-          "message": "Remove the field '__tagHelperStringValueBuffer' and declare it as a local variable in the relevant methods.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Search.cshtml.g.cs",
-                "region": {
-                  "startLine": 41,
-                  "startColumn": 24,
-                  "endLine": 41,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1450",
-          "level": "warning",
-          "message": "Remove the field '__Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper' and declare it as a local variable in the relevant methods.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Book/Search.cshtml.g.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 77,
-                  "endLine": 55,
-                  "endColumn": 130
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'Views_Home_Privacy' to match pascal case naming rules, consider using 'ViewsHomePrivacy'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 18,
-                  "endLine": 31,
-                  "endColumn": 36
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make '__tagHelperRunner' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 87,
-                  "endLine": 39,
-                  "endColumn": 104
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'Views_Shared__ValidationScriptsPartial' to match pascal case naming rules, consider using 'ViewsSharedValidationScriptsPartial'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 18,
-                  "endLine": 31,
-                  "endColumn": 56
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'Views__ViewImports' to match pascal case naming rules, consider using 'ViewsViewImports'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 18,
-                  "endLine": 30,
-                  "endColumn": 36
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1450",
-          "level": "warning",
-          "message": "Remove the field '__tagHelperExecutionContext' and declare it as a local variable in the relevant methods.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
-                "region": {
-                  "startLine": 37,
-                  "startColumn": 97,
-                  "endLine": 37,
-                  "endColumn": 124
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1450",
-          "level": "warning",
-          "message": "Remove the field '__Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper' and declare it as a local variable in the relevant methods.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 90,
-                  "endLine": 55,
-                  "endColumn": 156
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'Views__ViewStart' to match pascal case naming rules, consider using 'ViewsViewStart'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 18,
-                  "endLine": 31,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make '__tagHelperRunner' 'readonly'.",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
-                  "startLine": 50,
-                  "startColumn": 87,
-                  "endLine": 50,
-                  "endColumn": 104
+                  "startLine": 72,
+                  "startColumn": 67,
+                  "endLine": 72,
+                  "endColumn": 79
                 }
               }
             }
           ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'Views_Shared__Layout' to match pascal case naming rules, consider using 'ViewsSharedLayout'.",
-          "locations": [
+          "relatedLocations": [
             {
-              "resultFile": {
+              "physicalLocation": {
                 "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
-                  "startLine": 31,
-                  "startColumn": 18,
-                  "endLine": 31,
-                  "endColumn": 38
+                  "startLine": 93,
+                  "startColumn": 17,
+                  "endLine": 93,
+                  "endColumn": 19
                 }
               }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1450",
-          "level": "warning",
-          "message": "Remove the field '__tagHelperExecutionContext' and declare it as a local variable in the relevant methods.",
-          "locations": [
+            },
             {
-              "resultFile": {
+              "physicalLocation": {
                 "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
-                  "startLine": 48,
-                  "startColumn": 97,
-                  "endLine": 48,
-                  "endColumn": 124
+                  "startLine": 108,
+                  "startColumn": 17,
+                  "endLine": 108,
+                  "endColumn": 19
                 }
               }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1450",
-          "level": "warning",
-          "message": "Remove the field '__Microsoft_AspNetCore_Mvc_Razor_TagHelpers_HeadTagHelper' and declare it as a local variable in the relevant methods.",
-          "locations": [
+            },
             {
-              "resultFile": {
+              "physicalLocation": {
                 "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
-                  "startLine": 66,
-                  "startColumn": 81,
-                  "endLine": 66,
-                  "endColumn": 138
+                  "startLine": 120,
+                  "startColumn": 13,
+                  "endLine": 120,
+                  "endColumn": 15
                 }
               }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1450",
-          "level": "warning",
-          "message": "Remove the field '__Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper' and declare it as a local variable in the relevant methods.",
-          "locations": [
+            },
             {
-              "resultFile": {
+              "physicalLocation": {
                 "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
-                  "startLine": 67,
-                  "startColumn": 90,
-                  "endLine": 67,
-                  "endColumn": 156
+                  "startLine": 143,
+                  "startColumn": 17,
+                  "endLine": 143,
+                  "endColumn": 19
                 }
               }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1450",
-          "level": "warning",
-          "message": "Remove the field '__Microsoft_AspNetCore_Mvc_Razor_TagHelpers_BodyTagHelper' and declare it as a local variable in the relevant methods.",
-          "locations": [
+            },
             {
-              "resultFile": {
+              "physicalLocation": {
                 "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
-                  "startLine": 68,
-                  "startColumn": 81,
-                  "endLine": 68,
-                  "endColumn": 138
+                  "startLine": 172,
+                  "startColumn": 17,
+                  "endLine": 172,
+                  "endColumn": 19
                 }
               }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1450",
-          "level": "warning",
-          "message": "Remove the field '__Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper' and declare it as a local variable in the relevant methods.",
-          "locations": [
+            },
             {
-              "resultFile": {
+              "physicalLocation": {
                 "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
-                  "startLine": 69,
-                  "startColumn": 77,
-                  "endLine": 69,
-                  "endColumn": 130
+                  "startLine": 193,
+                  "startColumn": 17,
+                  "endLine": 193,
+                  "endColumn": 19
                 }
               }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1450",
-          "level": "warning",
-          "message": "Remove the field '__Microsoft_AspNetCore_Mvc_TagHelpers_ScriptTagHelper' and declare it as a local variable in the relevant methods.",
-          "locations": [
+            },
             {
-              "resultFile": {
+              "physicalLocation": {
                 "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
-                  "startLine": 70,
-                  "startColumn": 77,
-                  "endLine": 70,
-                  "endColumn": 130
+                  "startLine": 214,
+                  "startColumn": 17,
+                  "endLine": 214,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 242,
+                  "startColumn": 17,
+                  "endLine": 242,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 256,
+                  "startColumn": 17,
+                  "endLine": 256,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 270,
+                  "startColumn": 17,
+                  "endLine": 270,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 295,
+                  "startColumn": 17,
+                  "endLine": 295,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 315,
+                  "startColumn": 13,
+                  "endLine": 315,
+                  "endColumn": 15
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+2 (incl 1 for nesting)",
+              "1": "+2 (incl 1 for nesting)",
+              "10": "+2 (incl 1 for nesting)",
+              "11": "+1",
+              "2": "+1",
+              "3": "+2 (incl 1 for nesting)",
+              "4": "+2 (incl 1 for nesting)",
+              "5": "+2 (incl 1 for nesting)",
+              "6": "+2 (incl 1 for nesting)",
+              "7": "+2 (incl 1 for nesting)",
+              "8": "+2 (incl 1 for nesting)",
+              "9": "+2 (incl 1 for nesting)"
+            }
           }
         },
         {
@@ -2168,175 +2337,6 @@
               "12": "+1",
               "13": "+1",
               "2": "+2 (incl 1 for nesting)",
-              "3": "+2 (incl 1 for nesting)",
-              "4": "+2 (incl 1 for nesting)",
-              "5": "+2 (incl 1 for nesting)",
-              "6": "+2 (incl 1 for nesting)",
-              "7": "+2 (incl 1 for nesting)",
-              "8": "+2 (incl 1 for nesting)",
-              "9": "+2 (incl 1 for nesting)"
-            }
-          }
-        },
-        {
-          "ruleId": "S3776",
-          "level": "warning",
-          "message": "Refactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 72,
-                  "startColumn": 67,
-                  "endLine": 72,
-                  "endColumn": 79
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 93,
-                  "startColumn": 17,
-                  "endLine": 93,
-                  "endColumn": 19
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 108,
-                  "startColumn": 17,
-                  "endLine": 108,
-                  "endColumn": 19
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 120,
-                  "startColumn": 13,
-                  "endLine": 120,
-                  "endColumn": 15
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 143,
-                  "startColumn": 17,
-                  "endLine": 143,
-                  "endColumn": 19
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 172,
-                  "startColumn": 17,
-                  "endLine": 172,
-                  "endColumn": 19
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 193,
-                  "startColumn": 17,
-                  "endLine": 193,
-                  "endColumn": 19
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 214,
-                  "startColumn": 17,
-                  "endLine": 214,
-                  "endColumn": 19
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 242,
-                  "startColumn": 17,
-                  "endLine": 242,
-                  "endColumn": 19
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 256,
-                  "startColumn": 17,
-                  "endLine": 256,
-                  "endColumn": 19
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 270,
-                  "startColumn": 17,
-                  "endLine": 270,
-                  "endColumn": 19
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 295,
-                  "startColumn": 17,
-                  "endLine": 295,
-                  "endColumn": 19
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/user/Source/Repos/ASP.NET-Core-MVC-without-Enitity-Framework/MVCCRUDwithoutEF/MVCCRUDwithoutEF/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 315,
-                  "startColumn": 13,
-                  "endLine": 315,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "0": "+2 (incl 1 for nesting)",
-              "1": "+2 (incl 1 for nesting)",
-              "10": "+2 (incl 1 for nesting)",
-              "11": "+1",
-              "2": "+1",
               "3": "+2 (incl 1 for nesting)",
               "4": "+2 (incl 1 for nesting)",
               "5": "+2 (incl 1 for nesting)",

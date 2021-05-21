@@ -1,0 +1,10 @@
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_DataAccessLayer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_DataAccessLayer\bin\Debug\netcoreapp3.1\MVC_DataAccessLayer.deps.json
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_DataAccessLayer\bin\Debug\netcoreapp3.1\MVC_DataAccessLayer.dll
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_DataAccessLayer\bin\Debug\netcoreapp3.1\MVC_DataAccessLayer.pdb
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_DataAccessLayer\obj\Debug\netcoreapp3.1\MVC_DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_DataAccessLayer\obj\Debug\netcoreapp3.1\MVC_DataAccessLayer.AssemblyInfo.cs
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_DataAccessLayer\obj\Debug\netcoreapp3.1\MVC_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_DataAccessLayer\obj\Debug\netcoreapp3.1\MVC_DataAccessLayer.dll
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_DataAccessLayer\obj\Debug\netcoreapp3.1\MVC_DataAccessLayer.pdb
+C:\Users\user\Source\Repos\ASP.NET-Core-MVC-without-Enitity-Framework\MVCCRUDwithoutEF\MVC_DataAccessLayer\obj\Debug\netcoreapp3.1\MVC_DataAccessLayer.csprojAssemblyReference.cache
